@@ -9,7 +9,7 @@
   },
   "amplitude_mag": {
     "fmt": ".3f",
-    "value": 0.1150342685241455
+    "value": 0.1150342685241456
   },
   "band_hi_um": {
     "fmt": ".2f",
@@ -21,11 +21,11 @@
   },
   "brightening_mag": {
     "fmt": ".3f",
-    "value": 0.07543369264161712
+    "value": 0.07543369264161734
   },
   "dimming_mag": {
     "fmt": ".3f",
-    "value": 0.03960057588252838
+    "value": 0.03960057588252826
   },
   "one_plus_z_max": {
     "fmt": ".4f",
