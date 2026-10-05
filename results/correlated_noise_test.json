@@ -5,122 +5,122 @@
   },
   "common0_sigma": {
     "fmt": ".5f",
-    "value": 0.0016737642955696056
+    "value": 0.001673621004856154
   },
   "common100_ratio": {
     "fmt": ".2f",
-    "value": 2.5472585623716744
+    "value": 2.547463540383959
   },
   "common100_sigma": {
     "fmt": ".5f",
-    "value": 0.004263510433281672
+    "value": 0.004263488490291817
   },
   "common30_ratio": {
     "fmt": ".2f",
-    "value": 1.1345231420906343
+    "value": 1.1345533491192583
   },
   "common30_sigma": {
     "fmt": ".5f",
-    "value": 0.0018989243277287462
+    "value": 0.001898812316215888
   },
   "common60_ratio": {
     "fmt": ".2f",
-    "value": 1.6552143197697973
+    "value": 1.6553197042696082
   },
   "common60_sigma": {
     "fmt": ".5f",
-    "value": 0.0027704386299462185
+    "value": 0.0027703778268178933
   },
   "common_mode_uas": {
     "value": 60.0
   },
   "fid_bias_nsigma": {
     "fmt": ".2f",
-    "value": 0.0767868217711344
+    "value": 0.07678548569467883
   },
   "fid_bias_omega_dot": {
     "fmt": ".5f",
-    "value": -0.00026808576944395424
+    "value": -0.00026807929356256754
   },
   "fid_boot_over_mc": {
     "fmt": ".2f",
-    "value": 0.706978691616761
+    "value": 0.7069895959187562
   },
   "fid_boot_sigma_omega_dot": {
     "fmt": ".5f",
-    "value": 0.002468274140678233
+    "value": 0.002468295534179573
   },
   "fid_detection_nsigma": {
     "fmt": ".0f",
-    "value": 66.08043892129459
+    "value": 66.0808853841616
   },
   "fid_excess_sigma_omega_dot": {
     "fmt": ".5f",
-    "value": 0.00306393263453455
+    "value": 0.00306398402919398
   },
   "fid_pct_of_signal": {
     "fmt": ".2f",
-    "value": 1.51330713948655
+    "value": 1.513296915116216
   },
   "fid_ratio_Omega_deg": {
     "fmt": ".2f",
-    "value": 1.58814999442246
+    "value": 1.5881559231879787
   },
   "fid_ratio_P_yr": {
     "fmt": ".2f",
-    "value": 2.0177039467187536
+    "value": 2.0177074205067544
   },
   "fid_ratio_e": {
     "fmt": ".2f",
-    "value": 1.7168115001234534
+    "value": 1.716815452078146
   },
   "fid_ratio_i_deg": {
     "fmt": ".2f",
-    "value": 1.5783860309048794
+    "value": 1.5783924038956554
   },
   "fid_ratio_omega_deg": {
     "fmt": ".2f",
-    "value": 1.525105064712079
+    "value": 1.525124827762536
   },
   "fid_ratio_omega_dot": {
     "fmt": ".2f",
-    "value": 2.0858965683232378
+    "value": 2.0860610627405363
   },
   "fid_ratio_t_peri_yr": {
     "fmt": ".2f",
-    "value": 2.133588122966674
+    "value": 2.133595838304267
   },
   "fid_ratio_vs_boot_omega_dot": {
     "fmt": ".2f",
-    "value": 1.508977369601619
+    "value": 1.508961799560791
   },
   "fid_sigma_Omega_deg": {
     "fmt": ".5f",
-    "value": 0.25917876731272643
+    "value": 0.25918220311266504
   },
   "fid_sigma_P_yr": {
     "fmt": ".5f",
-    "value": 0.0006839259037723057
+    "value": 0.000683927690883487
   },
   "fid_sigma_e": {
     "fmt": ".5f",
-    "value": 0.0001360103630620565
+    "value": 0.00013601072762752894
   },
   "fid_sigma_i_deg": {
     "fmt": ".5f",
-    "value": 0.10536580525085279
+    "value": 0.1053671022299191
   },
   "fid_sigma_omega_deg": {
     "fmt": ".5f",
-    "value": 0.14678465869968654
+    "value": 0.14678563315400395
   },
   "fid_sigma_omega_dot": {
     "fmt": ".5f",
-    "value": 0.0034912992003106017
+    "value": 0.003491275612015113
   },
   "fid_sigma_t_peri_yr": {
     "fmt": ".5f",
-    "value": 0.0013173575219675084
+    "value": 0.0013173615853971476
   },
   "n_realizations": {
     "value": 40
@@ -134,23 +134,23 @@
   },
   "red0_sigma": {
     "fmt": ".5f",
-    "value": 0.0016737642955696056
+    "value": 0.001673621004856154
   },
   "red100_ratio": {
     "fmt": ".2f",
-    "value": 2.6608389452763697
+    "value": 2.661173493124709
   },
   "red100_sigma": {
     "fmt": ".5f",
-    "value": 0.0044536172228646755
+    "value": 0.004453795855659937
   },
   "red50_ratio": {
     "fmt": ".2f",
-    "value": 1.5269420691800515
+    "value": 1.527132316929533
   },
   "red50_sigma": {
     "fmt": ".5f",
-    "value": 0.002555741116796745
+    "value": 0.002555840722807912
   },
   "red_noise_uas": {
     "value": 50.0
@@ -163,10 +163,10 @@
   },
   "white_over_boot_omega_dot": {
     "fmt": ".2f",
-    "value": 0.7234190767256599
+    "value": 0.7233545683357953
   },
   "white_sigma_omega_dot": {
     "fmt": ".5f",
-    "value": 0.0016737642955696056
+    "value": 0.001673621004856154
   }
 }

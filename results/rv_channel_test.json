@@ -1,35 +1,35 @@
 {
   "eris_pct_change_omega_dot": {
     "fmt": ".1f",
-    "value": 4.464641756368359
+    "value": 4.468006822115522
   },
   "eris_ratio_Omega_deg": {
     "fmt": ".2f",
-    "value": 0.980778855556605
+    "value": 0.9807848295271727
   },
   "eris_ratio_P_yr": {
     "fmt": ".2f",
-    "value": 0.9727443757392042
+    "value": 0.9727478240718678
   },
   "eris_ratio_e": {
     "fmt": ".2f",
-    "value": 0.9907171297757235
+    "value": 0.9907241561096888
   },
   "eris_ratio_i_deg": {
     "fmt": ".2f",
-    "value": 0.9839363684174409
+    "value": 0.9839404638735434
   },
   "eris_ratio_omega_deg": {
     "fmt": ".2f",
-    "value": 0.9854646375456656
+    "value": 0.9854744500996585
   },
   "eris_ratio_omega_dot_deg_yr": {
     "fmt": ".2f",
-    "value": 1.0446464175636836
+    "value": 1.0446800682211552
   },
   "eris_ratio_t_peri_yr": {
     "fmt": ".2f",
-    "value": 0.964481776346674
+    "value": 0.9644842609991173
   },
   "eris_rv_sigma": {
     "fmt": ".0f",
@@ -37,63 +37,63 @@
   },
   "eris_sigma_Omega_deg": {
     "fmt": ".5f",
-    "value": 0.16595466946302434
+    "value": 0.16595537711899278
   },
   "eris_sigma_P_yr": {
     "fmt": ".5f",
-    "value": 0.0003499400926290489
+    "value": 0.00034994099144098
   },
   "eris_sigma_e": {
     "fmt": ".5f",
-    "value": 7.966387939659229e-05
+    "value": 7.966419899464857e-05
   },
   "eris_sigma_i_deg": {
     "fmt": ".5f",
-    "value": 0.07166757073131598
+    "value": 0.07166774116724642
   },
   "eris_sigma_omega_deg": {
     "fmt": ".5f",
-    "value": 0.09394722639939976
+    "value": 0.09394792480039096
   },
   "eris_sigma_omega_dot_deg_yr": {
     "fmt": ".5f",
-    "value": 0.0024169833661655932
+    "value": 0.0024170698327819844
   },
   "eris_sigma_t_peri_yr": {
     "fmt": ".5f",
-    "value": 0.0006380718744515026
+    "value": 0.0006380731146489676
   },
   "harmoni_pct_change_omega_dot": {
     "fmt": ".1f",
-    "value": -4.1488638505611135
+    "value": -4.149998446561465
   },
   "harmoni_ratio_Omega_deg": {
     "fmt": ".2f",
-    "value": 0.5324275917802561
+    "value": 0.5324015752280477
   },
   "harmoni_ratio_P_yr": {
     "fmt": ".2f",
-    "value": 0.44939025844191743
+    "value": 0.4493972704556669
   },
   "harmoni_ratio_e": {
     "fmt": ".2f",
-    "value": 0.48161720088511445
+    "value": 0.4816186952792498
   },
   "harmoni_ratio_i_deg": {
     "fmt": ".2f",
-    "value": 0.5821267147001211
+    "value": 0.5821166232210591
   },
   "harmoni_ratio_omega_deg": {
     "fmt": ".2f",
-    "value": 0.6083899699057325
+    "value": 0.6083471712967258
   },
   "harmoni_ratio_omega_dot_deg_yr": {
     "fmt": ".2f",
-    "value": 0.9585113614943889
+    "value": 0.9585000155343854
   },
   "harmoni_ratio_t_peri_yr": {
     "fmt": ".2f",
-    "value": 0.4867194267497956
+    "value": 0.4867273281076107
   },
   "harmoni_rv_sigma": {
     "fmt": ".1f",
@@ -101,31 +101,31 @@
   },
   "harmoni_sigma_Omega_deg": {
     "fmt": ".5f",
-    "value": 0.09009048727579025
+    "value": 0.09008592051562578
   },
   "harmoni_sigma_P_yr": {
     "fmt": ".5f",
-    "value": 0.00016166597575673736
+    "value": 0.0001616683404295208
   },
   "harmoni_sigma_e": {
     "fmt": ".5f",
-    "value": 3.872699224986821e-05
+    "value": 3.872699312281758e-05
   },
   "harmoni_sigma_i_deg": {
     "fmt": ".5f",
-    "value": 0.04240071699703627
+    "value": 0.042399906309290795
   },
   "harmoni_sigma_omega_deg": {
     "fmt": ".5f",
-    "value": 0.05799959538295383
+    "value": 0.05799536892685104
   },
   "harmoni_sigma_omega_dot_deg_yr": {
     "fmt": ".5f",
-    "value": 0.0022176939278800933
+    "value": 0.0022176755762308427
   },
   "harmoni_sigma_t_peri_yr": {
     "fmt": ".5f",
-    "value": 0.00032199880243934673
+    "value": 0.0003220038260745422
   },
   "harmoni_snr": {
     "fmt": ".0f",

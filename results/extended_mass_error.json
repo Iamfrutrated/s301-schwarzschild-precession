@@ -1,27 +1,27 @@
 {
   "bias_nsigma_one": {
     "fmt": ".2f",
-    "value": 0.05548564021699228
+    "value": 0.05546610093665581
   },
   "bias_nsigma_three": {
     "fmt": ".2f",
-    "value": 0.13678775800309764
+    "value": 0.1368769037130575
   },
   "bias_pct_one": {
     "fmt": ".3f",
-    "value": 0.05564484741180998
+    "value": 0.055625450203840215
   },
   "bias_pct_three": {
     "fmt": ".3f",
-    "value": 0.1371802486574707
+    "value": 0.1372701391114868
   },
   "bias_rate_one": {
     "fmt": ".5f",
-    "value": -0.0001283763263921245
+    "value": -0.000128331575756311
   },
   "bias_rate_three": {
     "fmt": ".5f",
-    "value": -0.00031648386499962954
+    "value": -0.00031669124819503854
   },
   "m_ext_one_msun": {
     "fmt": ".0f",
@@ -33,7 +33,7 @@
   },
   "pointmass_agreement_pct": {
     "fmt": ".2f",
-    "value": 1.1871999584062154
+    "value": 1.1871999583939363
   },
   "rc_mpc": {
     "fmt": ".2f",
